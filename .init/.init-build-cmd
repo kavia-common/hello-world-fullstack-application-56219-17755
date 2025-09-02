@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python manage.py makemigrations && python manage.py migrate",
+    "working_directory": "/home/kavia/workspace/code-generation/hello-world-fullstack-application-56219-17755/hello_world_backend"
+}
